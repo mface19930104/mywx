@@ -15,6 +15,7 @@
   </view>
  </view>
 </view> -->
+<!-- 微信项目 -->
 <view class="cells">
   <navigator class="item" v-for="item in infolist"  :key="item.id" >
     <image src="/static/123.jpg" mode="aspectFill"/>
